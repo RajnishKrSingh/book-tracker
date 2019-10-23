@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/book-tracker/static/css/main.5469ef37.chunk.css",
+    "main.js": "/book-tracker/static/js/main.a42cb4f1.chunk.js",
+    "main.js.map": "/book-tracker/static/js/main.a42cb4f1.chunk.js.map",
+    "runtime-main.js": "/book-tracker/static/js/runtime-main.a9f5f990.js",
+    "runtime-main.js.map": "/book-tracker/static/js/runtime-main.a9f5f990.js.map",
+    "static/css/2.9e15cd80.chunk.css": "/book-tracker/static/css/2.9e15cd80.chunk.css",
+    "static/js/2.8c58b4cd.chunk.js": "/book-tracker/static/js/2.8c58b4cd.chunk.js",
+    "static/js/2.8c58b4cd.chunk.js.map": "/book-tracker/static/js/2.8c58b4cd.chunk.js.map",
+    "index.html": "/book-tracker/index.html",
+    "precache-manifest.fcd31ed20d9aa794d8b7814dd18e6a77.js": "/book-tracker/precache-manifest.fcd31ed20d9aa794d8b7814dd18e6a77.js",
+    "service-worker.js": "/book-tracker/service-worker.js",
+    "static/css/2.9e15cd80.chunk.css.map": "/book-tracker/static/css/2.9e15cd80.chunk.css.map",
+    "static/css/main.5469ef37.chunk.css.map": "/book-tracker/static/css/main.5469ef37.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f5f990.js",
+    "static/css/2.9e15cd80.chunk.css",
+    "static/js/2.8c58b4cd.chunk.js",
+    "static/css/main.5469ef37.chunk.css",
+    "static/js/main.a42cb4f1.chunk.js"
+  ]
+}
